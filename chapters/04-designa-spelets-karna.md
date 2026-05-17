@@ -216,23 +216,6 @@ Om kärnan fungerar kan du lägga till mer senare. Om kärnan inte fungerar hjä
   - Varför det händer: Du vill bygga hela spelet direkt.
   - Hur du undviker det: Skriv bara turordning, handlingar, mål och slutvillkor i första versionen.
 
-## Miniövningar längs vägen
-
-### Miniövning: skriv en turrunda
-
-Beskriv en spelares tur i fyra korta steg. Använd verb som går att göra vid bordet, till exempel dra, välj, flytta, byt, avslöja eller betala.
-
-Om du behöver fler än fyra steg, markera vilka som kan vänta till en senare version.
-
-### Miniövning: kontrollera målet
-
-Skriv spelets mål på en rad. Testa sedan om målet svarar på tre frågor:
-
-1. Vad försöker spelaren uppnå?
-2. Hur märker spelaren att målet är nära?
-3. Vad händer när någon lyckas?
-
-Om någon fråga saknar svar är målet fortfarande för otydligt.
 
 ## Övningar
 

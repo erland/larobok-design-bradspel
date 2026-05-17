@@ -183,23 +183,6 @@ Stoppregeln hjälper dig att avsluta en fas. Den hindrar dig inte från att gör
 - **Att aldrig bestämma en slutpunkt.** Utan stoppregel kan ett litet spel förbli "nästan klart" hur länge som helst.
 - **Att försöka göra första spelet till sitt drömspel.** Första färdiga versionen ska lära dig processen, inte bevisa allt du kan.
 
-## Miniövningar längs vägen
-
-### Miniövning: självständighetstestet
-
-Skriv ner allt du brukar förklara muntligt när andra spelar ditt spel. Markera sedan vilka av dessa saker som borde stå i reglerna, på komponenterna eller i en enkel spelhjälp.
-
-Ett spel närmar sig färdigt skick när färre förklaringar behöver komma från dig.
-
-### Miniövning: stoppregeln
-
-Skriv en konkret stoppregel för din nuvarande version. Exempel:
-
-- Jag gör bara ändringar som löser problem från testspel.
-- Jag lägger inte till nya mekaniker före nästa färdiga version.
-- Jag avslutar version 1 när tre olika grupper kan spela utan min hjälp.
-
-Stoppregeln skyddar dig från att putsa spelet i all evighet.
 
 ## Övningar
 

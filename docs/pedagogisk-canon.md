@@ -123,3 +123,6 @@
 ## Reviderade pedagogiska grepp
 
 - Kapitel 5 använder före/efter-metoden för regeltext: börja med otydlig regel, identifiera frågor, skriv om till spelbar sekvens.
+
+## Övningsstruktur
+- Boken använder kapitelövningar och reflektionsfrågor i slutet av kapitlen som huvudformat. Extra fristående övningsblock ska inte användas.

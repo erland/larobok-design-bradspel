@@ -156,22 +156,6 @@ Nu kan vi börja testa om idén verkar lovande.
   - Varför det händer: Det är lättare att designa en ensam upplevelse.
   - Hur man undviker det: Lägg till gemensamma resurser, konkurrens om platser eller information som sprids mellan spelarna.
 
-## Miniövningar längs vägen
-
-### Miniövning: hitta spelets löfte
-
-Skriv en mening som börjar med: "I mitt spel ska spelaren känna..." Fyll sedan i med en konkret känsla, till exempel nyfikenhet, press, listighet, samarbete eller triumf.
-
-Skriv därefter en andra mening: "Spelaren känner detta eftersom..." och förklara vilken typ av val eller situation som ska skapa känslan.
-
-### Miniövning: aktivitet eller spel?
-
-Välj en enkel aktivitet, till exempel att dra ett kort, flytta en pjäs eller slå en tärning. Skriv två versioner:
-
-1. En version där spelaren bara gör aktiviteten.
-2. En version där aktiviteten blir ett meningsfullt val.
-
-Fråga dig själv: vad förändrades när aktiviteten blev ett spelbeslut?
 
 ## Övningar
 

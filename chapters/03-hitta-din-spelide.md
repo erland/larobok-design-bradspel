@@ -236,22 +236,6 @@ Ditt första mål är inte att skapa världens mest originella spel. Ditt först
 
 Unikhet kan växa fram när du testar, förenklar och förbättrar.
 
-## Miniövningar längs vägen
-
-### Miniövning: tre små idéer
-
-Skriv tre spelidéer på högst två meningar vardera. Varje idé ska innehålla:
-
-1. Vad spelarna försöker göra.
-2. Vad som gör det osäkert eller spännande.
-
-Välj sedan den idé som verkar enklast att testa på ett bord inom en timme.
-
-### Miniövning: ta bort hälften
-
-Titta på din favoritidé och skriv ner alla saker du vill ha med. Stryk sedan hälften.
-
-Det som är kvar är inte nödvändigtvis den slutliga versionen, men det hjälper dig se vad spelet faktiskt handlar om.
 
 ## Övningar
 

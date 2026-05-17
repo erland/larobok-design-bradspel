@@ -180,23 +180,6 @@ I Skattkartan vill vi att spelarna ska känna: “Vi hinner kanske, men bara om 
   - Varför det händer: Problem i spelet upplevs som något som alltid ska tas bort.
   - Hur man undviker det: Skilj på dålig friktion och bra spänning. Ett hinder kan vara roligt om spelaren kan påverka det.
 
-## Miniövningar längs vägen
-
-### Miniövning: hitta väntan
-
-Tänk igenom en hel runda och markera när en spelare inte gör något intressant. För varje sådan stund, fråga:
-
-1. Kan väntan kortas?
-2. Kan spelaren få något litet att följa?
-3. Kan beslutet flyttas närmare spelaren?
-
-Målet är inte att alla ska agera hela tiden, utan att ingen ska känna sig bortglömd.
-
-### Miniövning: en ändring i taget
-
-Välj ett problem från ditt senaste test. Skriv tre möjliga lösningar, men välj bara en att testa först.
-
-Skriv också vad du tror kommer hända. Efter nästa test kan du jämföra gissningen med verkligheten.
 
 ## Övningar
 

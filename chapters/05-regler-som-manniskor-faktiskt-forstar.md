@@ -284,17 +284,6 @@ Den förbättrade regeln gör tre saker som nästan alltid hjälper:
 
 Det sista är särskilt viktigt. Regler blir mycket lättare att förstå när textens ordning följer spelarnas händer.
 
-### Miniövning: skriv om en svag regel
-
-Välj en regel i ditt eget spel och skriv den först slarvigt, ungefär som du skulle säga den högt. Skriv sedan om den med fyra delar:
-
-1. När gäller regeln?
-2. Vad får spelaren välja?
-3. Vad händer på bordet?
-4. Vad händer efteråt?
-
-Målet är inte att göra regeln längre. Målet är att göra den spelbar.
-
 
 ## Första regeltexten för Skattkartan
 

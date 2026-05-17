@@ -247,23 +247,6 @@ Varför det händer: Det känns tryggt och enkelt.
 
 Hur du undviker det: Börja gärna med vänner, men testa senare med personer som vågar vara ärliga och som liknar din tänkta målgrupp.
 
-## Miniövningar längs vägen
-
-### Miniövning: ett testmål
-
-Innan du testspelar, skriv en enda fråga du vill få svar på. Exempel:
-
-- Förstår spelarna vad de ska göra på sin första tur?
-- Blir valet mellan risk och säkerhet intressant?
-- Tar spelet under 30 minuter?
-
-Låt den frågan styra vad du observerar.
-
-### Miniövning: tre observationer, inte tre åsikter
-
-Efter ett test, skriv tre saker du såg spelarna göra. Börja varje rad med "Jag såg att..."
-
-Spara åsikter och lösningar till efteråt. Observationer är ofta mer användbara än snabba förklaringar.
 
 ## Övningar
 

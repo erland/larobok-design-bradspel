@@ -297,23 +297,6 @@ Det är prototypens stora värde.
   - Varför det händer: Kort och brickor görs för permanenta.
   - Hur du undviker det: Använd blyerts, lösa lappar, kortfickor eller tomma kort som kan skrivas om.
 
-## Miniövningar längs vägen
-
-### Miniövning: komponentbanta
-
-Skriv en lista över alla komponenter du tror att ditt spel behöver. Markera sedan varje komponent som antingen:
-
-- måste finnas för att spelet ska gå att testa
-- kan vänta till senare
-- är mest dekoration just nu
-
-Bygg bara den första gruppen i din första prototyp.
-
-### Miniövning: ful prototyp, tydligt syfte
-
-Välj en komponent och skriv direkt på den vad den ska testa. Exempel: "Gör vägen farligare", "Ger spelaren ett svårt val" eller "Visar när spelet snart är slut".
-
-Det hjälper dig att se komponenten som ett testverktyg, inte som en färdig spelprodukt.
 
 ## Övningar
 
