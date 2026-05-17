@@ -105,3 +105,8 @@ Version: 0.13
 
 - Miniövningar har lagts till i kapitel 1, 3, 4, 6, 7, 8 och 11. Kapitel 5 hade redan förstärkts med en miniövning om att skriva om en svag regel.
 - Översiktsfil skapad: `exercises/miniovningar-oversikt.md`.
+
+
+## Senaste uppdatering
+- Alla illustrationspromptar för planerade kapitelbilder har skapats i `assets/image-prompts/`.
+- Inre bilder är fortfarande promptade/planerade och ska genereras innan de bäddas in i kapitel.
