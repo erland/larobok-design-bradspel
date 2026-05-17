@@ -1,0 +1,51 @@
+title: Designa ditt eget brädspel
+subtitle: Från idé till färdigt spel
+author: Erland Lindmark
+language: sv
+difficulty: beginner
+audience: Vuxna nybörjare som vill skapa sitt första brädspel
+book_type: textbook
+edition: '1'
+version: "0.2"
+date: '2026-05-17'
+rights: All rights reserved
+publisher: ''
+cover_image: "assets/cover/cover.png"
+identifier: urn:uuid:1f46c268-ac64-4705-b042-4d6acfb92f35
+creator_role: aut
+subject: Brädspelsdesign
+description: En praktisk svensk nybörjarbok om att designa korta brädspel, från spelidé
+  till testad prototyp och färdigt spel.
+project_slug: designa-ditt-eget-bradspel
+zip_naming:
+  initial: designa-ditt-eget-bradspel-projekt.zip
+  chapter_update: designa-ditt-eget-bradspel-projekt-kapitel-NN.zip
+chapters:
+- chapters/00-inledning.md
+- chapters/01-vad-gor-spel-roliga.md
+- chapters/02-snabbspel-och-deras-mekaniker.md
+- chapters/03-hitta-din-spelide.md
+- chapters/04-designa-spelets-karna.md
+- chapters/05-regler-som-manniskor-faktiskt-forstar.md
+- chapters/06-bygg-en-enkel-prototyp.md
+- chapters/07-testspela-smart.md
+- chapters/08-balans-och-speltempo.md
+- chapters/09-nar-spelet-inte-fungerar.md
+- chapters/10-tema-komponenter-och-presentation.md
+- chapters/11-fran-prototyp-till-fardigt-spel.md
+- chapters/12-nasta-steg-som-speldesigner.md
+exports:
+  epub:
+    enabled: true
+    include_text_toc: false
+    airy_layout: true
+    render_markdown_styles: true
+  pdf:
+    enabled: true
+    include_toc_before_introduction: true
+    render_markdown_styles: true
+  docx:
+    enabled: true
+    render_markdown_styles: true
+  markdown:
+    enabled: true
