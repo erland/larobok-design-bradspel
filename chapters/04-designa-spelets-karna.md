@@ -33,6 +33,10 @@ Det betyder att vi inte behöver uppfinna allt från början. Vi behöver bara f
 
 ## Spelets kärna är det som händer om och om igen
 
+![En kärnloop visar vad spelaren gör om och om igen under spelets gång](../assets/images/IMG-04-01.png)
+
+*Figur 4.1: En kärnloop visar vad spelaren gör om och om igen under spelets gång.*
+
 Ett spel kan ha många detaljer, men spelaren upplever främst det som upprepas.
 
 I många korta spel finns en enkel rytm:
@@ -78,6 +82,10 @@ För Skattkartan väljer vi:
 Det här är inte slutgiltigt. Det är ett arbetsbeslut.
 
 ## Välj få huvudhandlingar
+
+![Ett bra spelarval visar tydligt skillnaden mellan säkerhet, risk och möjlig belöning](../assets/images/IMG-04-02.png)
+
+*Figur 4.2: Ett bra spelarval visar tydligt skillnaden mellan säkerhet, risk och möjlig belöning.*
 
 En huvudhandling är något spelaren får göra på sin tur. I första prototypen bör antalet vara lågt. Två till fyra handlingar räcker ofta.
 

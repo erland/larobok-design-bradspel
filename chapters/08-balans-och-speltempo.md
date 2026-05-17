@@ -34,6 +34,10 @@ För Skattkartan betyder det att vi inte byter hela spelidén. Vi tittar på fr�
 
 ## Vad balans betyder
 
+![Balans handlar om att olika spelare ska ha olika men jämförbara möjligheter](../assets/images/IMG-08-01.png)
+
+*Figur 8.1: Balans handlar om att olika spelare ska ha olika men jämförbara möjligheter.*
+
 Balans betyder inte att allt är exakt lika starkt.
 
 Balans betyder att spelets val, risker och möjligheter känns rimliga i förhållande till varandra. Spelarna ska kunna fatta olika beslut och ändå känna att de har en chans.
@@ -53,6 +57,10 @@ Balans mellan risk och belöning betyder att farliga val ska kunna löna sig, me
 I Skattkartan kan det till exempel vara obalanserat om den bästa strategin alltid är att bara utforska så snabbt som möjligt och aldrig vila. Då finns vilohandlingen i reglerna, men inte i spelet.
 
 ## Vad speltempo betyder
+
+![En kort spelomgång kan bygga spänning genom tydliga steg från start till sista skatt](../assets/images/IMG-08-02.png)
+
+*Figur 8.2: En kort spelomgång kan bygga spänning genom tydliga steg från start till sista skatt.*
 
 Speltempo handlar om hur snabbt spelet rör sig framåt.
 

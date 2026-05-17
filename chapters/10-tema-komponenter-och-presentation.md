@@ -81,6 +81,10 @@ Om spelarna inte förstår korten hjälper det inte att korten är vackra. Om sp
 
 ## Komponenter ska bära spelet
 
+![Tema gör komponenterna mer inbjudande när det samtidigt hjälper spelaren förstå spelet](../assets/images/IMG-10-01.png)
+
+*Figur 10.1: Tema gör komponenterna mer inbjudande när det samtidigt hjälper spelaren förstå spelet.*
+
 En komponent är en fysisk del av spelet: kort, brickor, spelbräde, tärningar, markörer, spelarpjäser, poängspår eller liknande.
 
 För korta spel bör varje komponent ha ett tydligt jobb.
@@ -109,6 +113,10 @@ Det är tillräckligt för ett första komplett snabbspel.
 Vi behöver inte lägga till utrustningskort, erfarenhetspoäng, ryggsäckar, specialyrken, sidouppdrag och hemliga roller bara för att de låter roliga. Sådana idéer kan sparas till senare versioner.
 
 ## Gör komponenterna lättlästa
+
+![Bättre presentation kan göra samma enkla spel mer lättläst och mer lockande att spela](../assets/images/IMG-10-02.png)
+
+*Figur 10.2: Bättre presentation kan göra samma enkla spel mer lättläst och mer lockande att spela.*
 
 Lättläst betyder inte tråkigt. Det betyder att spelaren snabbt ser det viktigaste.
 

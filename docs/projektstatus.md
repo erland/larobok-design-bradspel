@@ -112,3 +112,15 @@ Version: 0.13
 
 ## Redigeringsnotering
 - Tidigare extra övningsblock är borttagna. Kapitelövningarna i slutet av kapitlen är huvudövningarna, med korta reflektioner integrerade i löptext där det passar.
+
+
+## Illustrationer
+
+Alla genererade kapitelillustrationer IMG-01-01 till IMG-12-01 är inlagda i `assets/images/` med korrekta ID-baserade filnamn. Nästa steg är att lägga in markdown-referenser i kapitlen och göra exportkontroll.
+
+
+## Illustrationsstatus
+
+- Alla genererade kapitelillustrationer finns i `assets/images/`.
+- Kapitel 1–12 innehåller nu relativa bildreferenser och figurtexter på planerade platser.
+- Nästa steg inför export är att kontrollera bildstorlek, layout och sidbrytningar i EPUB/PDF.

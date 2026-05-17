@@ -81,6 +81,10 @@ Den första prototypen ska skydda spelets kärna från att drunkna i detaljer.
 
 ## Komponenter för Skattkartans första prototyp
 
+![En första prototyp behöver vara tydlig och ändringsbar, inte snygg](../assets/images/IMG-06-01.png)
+
+*Figur 6.1: En första prototyp behöver vara tydlig och ändringsbar, inte snygg.*
+
 Vi kan bygga Skattkartan med mycket enkla material.
 
 Första komponentlistan kan se ut så här:
@@ -132,6 +136,10 @@ En enkel första regel kan vara:
 Det går att utveckla senare.
 
 ## Skapa kort som testar beslut, inte textmängd
+
+![En enkel kortlayout gör det lättare att testa symbol, effekt och värde utan att fastna i grafisk design](../assets/images/IMG-06-02.png)
+
+*Figur 6.2: En enkel kortlayout gör det lättare att testa symbol, effekt och värde utan att fastna i grafisk design.*
 
 Kort är praktiska i prototyper eftersom de är lätta att ändra.
 

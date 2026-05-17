@@ -67,6 +67,10 @@ Det är ett mycket bra första testmål, eftersom det avslöjar både regelprobl
 
 ## Tre roller vid testbordet
 
+![Ett enkelt playtestbord där designern observerar och antecknar medan andra spelar](../assets/images/IMG-07-01.png)
+
+*Figur 7.1: Ett enkelt playtestbord där designern observerar och antecknar medan andra spelar.*
+
 Vid en testspelning finns ofta tre roller.
 
 Den första rollen är spelaren. Spelarens uppgift är att försöka spela spelet på riktigt. Spelaren behöver inte vara snäll mot designen, men ska försöka följa reglerna så gott det går.

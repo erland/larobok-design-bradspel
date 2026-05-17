@@ -33,6 +33,10 @@ Du behöver inte ha perfekta svar direkt. I början räcker det med fungerande a
 
 ## Tema och mekanik
 
+![En idékarta hjälper dig se hur tema, mål, spelarmoment, komponenter och begränsningar hänger ihop](../assets/images/IMG-03-01.png)
+
+*Figur 3.1: En idékarta hjälper dig se hur tema, mål, spelarmoment, komponenter och begränsningar hänger ihop.*
+
 Ett vanligt nybörjarmisstag är att börja med bara ett tema.
 
 “Jag vill göra ett spel om pirater” är en bra start, men det är inte ännu ett spel. Det säger vad spelet handlar om, men inte vad spelarna gör.

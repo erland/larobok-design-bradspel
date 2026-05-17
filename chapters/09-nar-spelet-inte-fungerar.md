@@ -105,6 +105,10 @@ Skriv vad du ändrade och varför. Testa sedan igen.
 
 ## Vanliga problem i första spel
 
+![Vanliga designproblem syns ofta vid bordet innan du hittar den bakomliggande orsaken](../assets/images/IMG-09-01.png)
+
+*Figur 9.1: Vanliga designproblem syns ofta vid bordet innan du hittar den bakomliggande orsaken.*
+
 ### För många idéer samtidigt
 
 Det här är kanske det vanligaste problemet. Du vill ha karta, resurser, strid, hemliga roller, utrustning, uppdrag, väder, nivåer och specialförmågor. Varje del verkar rolig för sig. Tillsammans blir de för mycket.

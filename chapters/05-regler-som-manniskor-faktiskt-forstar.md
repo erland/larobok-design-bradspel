@@ -62,6 +62,10 @@ För nybörjare är detta en viktig vana: skriv gärna mycket medan du utvecklar
 
 ## En enkel struktur för första regelversionen
 
+![En regelbok blir lättare att följa när översikt, mål, komponenter, förberedelse, turordning och slut villkoras tydligt](../assets/images/IMG-05-02.png)
+
+*Figur 5.2: En regelbok blir lättare att följa när översikt, mål, komponenter, förberedelse, turordning och slut villkoras tydligt.*
+
 Du behöver inte börja med ett perfekt regelhäfte. För en första prototyp räcker en enkel struktur.
 
 Använd gärna den här ordningen:
@@ -234,6 +238,10 @@ Men använd exempel med måtta. Om varje regel behöver ett långt exempel kan r
 
 
 ## Före och efter: en regel som faktiskt går att spela
+
+![Otydliga regler skapar osäkerhet, medan tydlig struktur gör spelet lättare att börja spela](../assets/images/IMG-05-01.png)
+
+*Figur 5.1: Otydliga regler skapar osäkerhet, medan tydlig struktur gör spelet lättare att börja spela.*
 
 Nu ska vi göra ett mer komplett regel-exempel. Det här är en typ av övning som är mycket värdefull när du utvecklar ditt första spel: skriv först den regel du spontant tänker på, och skriv sedan om den tills en annan person kan följa den utan att fråga dig.
 

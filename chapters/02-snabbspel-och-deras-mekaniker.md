@@ -43,6 +43,10 @@ Temat hjälper spelet att kännas levande. Mekaniken får spelet att fungera vid
 
 ## Varför snabbspel behöver enkel form
 
+![Skillnaden mellan trögt och smidigt speltempo blir tydlig när rundan förenklas](../assets/images/IMG-02-02.png)
+
+*Figur 2.2: Skillnaden mellan trögt och smidigt speltempo blir tydlig när rundan förenklas.*
+
 Korta spel har inte tid att förklara tjugo undantag. De har inte heller tid att låta spelaren vänta länge innan något intressant händer.
 
 En bra tumregel är:
@@ -62,6 +66,10 @@ För ett nybörjarprojekt är det ofta klokt att välja:
 Om spelet senare känns för tunt kan du lägga till mer. Det är mycket lättare än att börja med för mycket och försöka skära bort hälften.
 
 ## Vanliga typer av snabbspel
+
+![Sex enkla snabbspelsformer som kan inspirera ett första spel](../assets/images/IMG-02-01.png)
+
+*Figur 2.1: Sex enkla snabbspelsformer som kan inspirera ett första spel.*
 
 Här är några speltyper som ofta fungerar bra på kort speltid. De kan blandas, men som nybörjare är det smart att börja med en huvudtyp.
 

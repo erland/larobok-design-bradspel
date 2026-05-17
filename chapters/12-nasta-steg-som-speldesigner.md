@@ -58,6 +58,10 @@ Det här är en process du kan använda igen och igen. Nästa gång går den int
 
 ## Tre vägar vidare
 
+![Efter första spelet kan du fortsätta skapa, testa och dela spel med andra](../assets/images/IMG-12-01.png)
+
+*Figur 12.1: Efter första spelet kan du fortsätta skapa, testa och dela spel med andra.*
+
 Efter ett första spel finns det oftast tre naturliga vägar.
 
 | Väg | Passar dig som vill | Bra nästa steg |

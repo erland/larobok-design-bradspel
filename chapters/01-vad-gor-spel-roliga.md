@@ -49,6 +49,10 @@ Det är fortfarande vagt, men det ger riktning. Om spelet senare får regler som
 
 ## Fyra byggstenar: mål, val, spänning och interaktion
 
+![Fyra delar som tillsammans skapar spelupplevelse](../assets/images/IMG-01-01.png)
+
+*Figur 1.1: Fyra delar som tillsammans skapar spelupplevelse.*
+
 Vi börjar med fyra byggstenar som är lätta att förstå och använda.
 
 ### Mål

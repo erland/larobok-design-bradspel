@@ -36,6 +36,10 @@ Det är en annan nivå av färdighet, men du behöver fortfarande inte göra spe
 
 ## Tre nivåer av färdighet
 
+![Ett spel blir färdigt stegvis: idé, prototyp, testad version och färdig hemmaversion](../assets/images/IMG-11-01.png)
+
+*Figur 11.1: Ett spel blir färdigt stegvis: idé, prototyp, testad version och färdig hemmaversion.*
+
 Det hjälper att se spelet i tre nivåer.
 
 | Nivå | Syfte | Typiskt tecken |
