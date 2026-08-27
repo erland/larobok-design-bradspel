@@ -17,3 +17,13 @@ Boken är en svensk, hobby-/entusiastisk nybörjarbok för vuxna som vill skapa 
 ## Senaste uppdatering
 
 Kapitel 12, `chapters/12-nasta-steg-som-speldesigner.md`, har skapats tillsammans med övningar, bildprompt och uppdaterade projektdokument. Alla planerade kapitel finns nu i projektet.
+## GitHub Actions och publicering
+
+Projektet innehåller samma publiceringskoncept som Romanskaparen-referensen:
+
+- `Validate` kör projektvalidering vid relevanta pull requests och push till `main`.
+- `Build Preview` kan startas manuellt och skapar EPUB + PDF i ett gemensamt Actions-artifact.
+- `Release` körs för taggar som matchar `v*` och publicerar EPUB + PDF som separata GitHub Release-assets.
+- Pandoc är låst till version `3.1.11.1` för reproducerbara byggen.
+
+Lokalt kan validering köras med `python3 scripts/validate_project.py .`. Med rätt Pandoc- och XeLaTeX-version installerad kan boken byggas med `python3 scripts/build_book.py --output-dir exports`.
