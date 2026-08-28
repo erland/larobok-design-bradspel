@@ -27,6 +27,7 @@ $endif$
 ]{geometry}
 
 \usepackage{graphicx}
+\usepackage{eso-pic}
 \usepackage{microtype}
 \usepackage{setspace}
 \usepackage{parskip}
@@ -101,11 +102,16 @@ $endif$
 
 \begin{document}
 
-% Omslag - helsida, utan sidnummer.
+% Omslag - helsida, utan sidnummer. Lägg bilden direkt på första sidans
+% bakgrund i stället för som en vanlig textrad. Då kan en exakt helsidesbild
+% aldrig skjutas till sida 2 och lämna en tom sida före omslaget.
+\AddToShipoutPictureBG*{%
+  \AtPageLowerLeft{%
+    \includegraphics[width=\paperwidth,height=\paperheight]{$cover-path$}%
+  }%
+}
 \thispagestyle{empty}
-\newgeometry{margin=0pt}
-\noindent\includegraphics[width=\paperwidth,height=\paperheight]{$cover-path$}
-\restoregeometry
+\null
 \clearpage
 
 % Titelsida - ingen dubblerad titelrad.
@@ -122,11 +128,13 @@ $endif$
 \end{center}
 \clearpage
 
-% Klickbar, synlig PDF-TOC.
-\frontmatter
+% Klickbar, synlig PDF-TOC. Vi använder inte frontmatter/mainmatter eftersom
+% de lägger in egna bok-sidbrytningar. En explicit brytning före och efter
+% innehållsförteckningen ger exakt en TOC-sektion utan tomma sidor.
+\pagenumbering{roman}
 \tableofcontents
 \clearpage
-\mainmatter
+\pagenumbering{arabic}
 \setcounter{page}{1}
 
 $body$
