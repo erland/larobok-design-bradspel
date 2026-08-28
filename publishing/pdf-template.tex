@@ -35,6 +35,7 @@ $endif$
 \usepackage[hidelinks]{hyperref}
 \usepackage{bookmark}
 \usepackage{tocloft}
+\usepackage{titlesec}
 \usepackage{ragged2e}
 \usepackage{xcolor}
 \usepackage{longtable,booktabs,array}
@@ -51,6 +52,22 @@ $endif$
 \clubpenalty=10000
 \displaywidowpenalty=10000
 \raggedbottom
+
+% Rubrikhierarki utan automatisk numrering. Kapitelnumren finns redan i
+% de kanoniska H1-rubrikerna och sätts av \bookchapter.
+\setcounter{secnumdepth}{-1}
+\titleformat{\section}
+  {\normalfont\bfseries\fontsize{13}{15.5}\selectfont}
+  {}{0pt}{}
+\titlespacing*{\section}{0pt}{1.45em}{0.45em}
+\titleformat{\subsection}
+  {\normalfont\bfseries\fontsize{11.5}{14}\selectfont}
+  {}{0pt}{}
+\titlespacing*{\subsection}{0pt}{1.15em}{0.35em}
+\titleformat{\subsubsection}
+  {\normalfont\bfseries\fontsize{11}{13.2}\selectfont}
+  {}{0pt}{}
+\titlespacing*{\subsubsection}{0pt}{1.0em}{0.3em}
 
 \pagestyle{fancy}
 \fancyhf{}
@@ -79,9 +96,9 @@ $endif$
   \thispagestyle{plain}%
   \vspace*{10mm}%
   \begin{center}
-    {\fontsize{12.2}{14.0}\selectfont Kapitel #1\par}
-    \vspace{1.5mm}
-    {\fontsize{11.0}{13.0}\selectfont #2\par}
+    {\fontsize{16}{19}\selectfont\bfseries Kapitel #1\par}
+    \vspace{1.2mm}
+    {\fontsize{15}{18}\selectfont\bfseries #2\par}
   \end{center}
   \vspace{7mm}%
 }
@@ -95,7 +112,7 @@ $endif$
   \thispagestyle{plain}%
   \vspace*{10mm}%
   \begin{center}
-    {\fontsize{14}{17}\selectfont #1\par}
+    {\fontsize{16}{19}\selectfont\bfseries #1\par}
   \end{center}
   \vspace{7mm}%
 }
